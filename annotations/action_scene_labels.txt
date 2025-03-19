@@ -1,0 +1,43 @@
+0:walking
+1:turning around
+2:turning head around
+3:sitting down
+4:reaching for or picking up off of
+5:writing on paper or notebook
+6:standing up from sitting position
+7:extending and raising hand forward or in front of
+8:raising hands to both sides
+9:dancing
+10:placing on table
+11:lying down
+12:crossing legs
+13:getting up from lying position
+14:raising hands perpindicularly vertically
+15:climb furniture
+16:resting face on hand
+17:reading book or paper
+18:leaning on table
+19:straightening up
+20:climb down furniture also by jumping
+21:lowerings hands that were raised to the side
+22:reaching for pocket
+23:using phone
+24:lowering hands that were raised vertically
+25:drumming hands usually on table
+26:bending down or over something
+27:jumping
+28:uncrossing legs
+29:speaking on phone or mobile phone
+30:open cabinet door or window
+31:closing cabinet door or window
+32:folding legs
+33:lowering hand that was raised forward
+34:drinking
+35:typing on keyboard
+36:kneeling down
+37: wearing or putting on headphones
+38:explaining on board
+39:erasing board
+40:writing on board
+41:rubbing hands
+42:stirring spoon inside a mug

@@ -1,0 +1,59 @@
+0:walking
+1:extending or raising hand
+2:sitting down
+3:sitting on sofa
+4:writing on paper
+5:standing up
+6:holding and reading paper
+7:standing
+8:undefined
+9:dancing
+10:reaching for something on table
+11:putting something down on table
+12:going from sitting to lying down
+13:getting up from lying position
+14:climbing or standing up on furniture
+15:climbing down something
+16:punching hole in paper
+17:stapling papers
+18:arranging papers
+19:holding or grasping papers
+20:changing positions on sofa
+21:tidying table
+22:reading book
+23:closing book
+24:leaning on table
+25:stretching hands 
+26:folding hands
+27:turning around or head
+28:drumming hands on table
+29:crossing legs
+30:using phone
+31:reaching for something in pocket
+32:opening cupboard door
+33:closing cupboard door
+34:pressing button
+35:jumping
+36:lowering hand
+37:explaining something on board
+38:typing on keyboard
+39:holding something in hand
+40:drinking from a cup
+41:kneeling down
+42:undefind
+43:speaking on phone
+44:looking at phone or taking selfie
+45:bending down or squatting
+46:bending up
+47:stirring spoon inside cup
+48:returning hands from extended position
+49:undefined
+50:wiping face with hand
+51:turning around
+52:picking something up off table
+53:undefined
+54:extending legs while in standing position
+55:rubbing hands
+56:writing on board
+57:erasing board
+
