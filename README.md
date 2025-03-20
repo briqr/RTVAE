@@ -2,8 +2,8 @@ Official implementation of Recurrent transformer variational autoencoders for mu
 
 Built on top of [ACTOR](https://github.com/Mathux/ACTOR)
 
-Other frameworks used:[fast-transformers](https://github.com/idiap/fast-transformers)
+Other frameworks used: [fast-transformers](https://github.com/idiap/fast-transformers)
 
 Dataset used: [PROX](https://prox.is.tue.mpg.de) 
 
-To preprocess the data, please use src/preprocess/prepare_proxmulti_dataset.py  
+To prepare the data, please use src/preprocess/prepare_proxmulti_dataset.py. It will process the sequences and their action labels, which reside in annotations.
